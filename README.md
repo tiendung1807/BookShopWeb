@@ -24,7 +24,7 @@ Mở MySQL Workbench → Open SQL Script → Execute [bookshopdb.sql](https://gi
 
 ### 3. Nạp project vào IDEA
 
-Mở IDEA → Get from VCS (màn hình Welcome) hoặc File | New | Project from Version Control (màn hình bình thường) → Clone project theo URL: https://github.com/markiusphan/BookShopWeb.git
+Mở IDEA → Get from VCS (màn hình Welcome) hoặc File | New | Project from Version Control (màn hình bình thường) → Clone project theo URL: https://github.com/vualuoibieng1807/BookShopWeb
 
 ### 4. Cấu hình Tomcat
 
