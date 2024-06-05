@@ -38,9 +38,6 @@ Mở IDEA → Get from VCS (màn hình Welcome) hoặc File | New | Project from
 - Mặc định, DB_NAME là bookshopdb, DB_USERNAME là root, DB_PASSWORD là 12345.
 - Có thể thay đổi nếu như khác.
 
-# Sơ đồ CSDL
-
-![DatabaseDesignBSW](https://user-images.githubusercontent.com/60851390/184755435-bb97a62a-4cdd-408d-9a5a-526430f50c64.svg)
 
 ## Dữ liệu mẫu
 
